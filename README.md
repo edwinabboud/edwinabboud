@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Edwin Abboud Blanco</h1>
 <h3 align="center">A Data Science enthusiast</h3>
 
-- 🌱 I currently graduated from **Le Wagon**
-
 - 👨‍💻 All of my projects are available on my github [edwinabboud](edwinabboud)
 
 - 📫 How to reach me **edwinabboudblanco@gmail.com**
